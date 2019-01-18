@@ -32,6 +32,9 @@
 #' \itemize{
 #' \item Losses Don
 #' }
+#' \itemize{
+#' \item Chen, Chi-Chuan \email{chichuan.chen46@@gmail.com} \cr
+#' }
 #' @seealso
 #' Github : \link{https://github.com/yunshiuan/label4MRI} \cr
 #' Report bugs or comments at \link{https://github.com/yunshiuan/label4MRI/issues}

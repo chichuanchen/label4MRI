@@ -41,4 +41,7 @@ Other contributors:
 \itemize{
 \item Losses Don
 }
+\itemize{
+\item Chen, Chi-Chuan \email{chichuan.chen46@gmail.com} \cr
+}
 }
